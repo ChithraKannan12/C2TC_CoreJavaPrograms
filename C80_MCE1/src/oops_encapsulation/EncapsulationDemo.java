@@ -8,8 +8,8 @@ public class EncapsulationDemo {
 		//object creation 
 		OopsConceptDemo obj = new OopsConceptDemo();
 		obj.setSerialNum(100);
-		obj.setName("Pooja");
-		obj.setAge(20);
+		obj.setName("Chithra");
+		obj.setAge(22);
 		System.out.println(obj);
 		
 	}
